@@ -1,0 +1,10 @@
+node_modules/
+coverage/
+data.json
+.env
+.env.local
+*.log
+npm-debug.log*
+.DS_Store
+.idea/
+.vscode/
